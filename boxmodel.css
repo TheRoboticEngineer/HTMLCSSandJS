@@ -1,0 +1,27 @@
+/* Please answer the following questions
+
+What is the box model?
+A model used by programmers to remember and edit the existing box around each HTML elements, including the content, padding, border, and  margin. 
+
+What is the difference between margin and padding?
+Padding is the portion of space between content and it's border.
+
+What is collapsing margin?
+The top and bottom margins of blocks are sometimes combined (collapsed) into a single margin whose size is the largest of the individual margins (or just one of them, 
+if they are equal), a behavior known as margin collapsing.
+
+What is the purpose of the box-sizing CSS property?
+The box sizing allows programmers to adjust the behavior of the traditional CSS boxing measurements and properties
+
+What does the outline property do?
+Adds an outline to a content box; can also adjust styles
+
+How do you add a background image in CSS?
+Background-image: (insert url)
+
+Given a div with a width of 200px, margin of 20px and padding of 20px, what is the calculated width by the browser?
+
+Given a div with a height of 100px, border of 10px and padding of 20px, what is the calculated height by the browser?
+
+What does margin:auto do?
+Lets the browser decide the best margins for given content

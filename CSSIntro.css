@@ -1,0 +1,20 @@
+/* For the conceptual part of this exercise, I will be utilizing comments so that I don't interfere with the other code.
+
+A selector is what you want to style
+A declaration is everything in the curly braces
+A property is left of the color; what exactly you want to change
+A value is right of the : followed by ; tells how you want to style
+
+The 3 ways to include CSS are:
+- Inside of an HTML document using <style> elements
+- By creating an external stylesheet using a <link> element
+- Inline (but never do this one)
+
+The difference between rgb and rgba is with rgba you can adjust the trasnparency
+
+An em is the font size
+
+The differences between em and rem are that an emm is a CSS unit that is relative to the size of the parent element. A rem is relative to the font size of an html element
+
+To include a google font, you have to use a font-family command and specify which font you would like (make sure to check for how compatible it is with the end user) /*
+
