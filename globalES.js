@@ -27,3 +27,5 @@ console.log(PI) // gives out error which was expected
 // Variables are lifted or “hoisted” to the top of the scope they are declared in.
 //  When using var, you can access the variable name and it’s undefined value before it is used later on.
 // Function declarations are also hoisted and can be invoked “before” they are defined in a codebase.
+
+//Edit: made changes to the description
